@@ -10,4 +10,4 @@
 
 
 <h1>How Works?</h1>
--Firstly you should try to remember state's name in US.Then you should write it and after if you click ok button you can see that state's location in the map.
+-Firstly you should try to remember state's name in US.Then you should write it and Finally if you click ok button you can see that state's location in the map.
